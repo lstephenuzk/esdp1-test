@@ -1,2 +1,0 @@
-url: https://cds.climate.copernicus.eu/api/v2
-key: 305618:02bd197b-e106-4550-b7fc-e50f38058c5e
